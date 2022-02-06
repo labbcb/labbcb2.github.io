@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ime.unicamp.br'>Institute of Mathematics, Statistics and Scientific Computing</a>. University of Campinas. UNICAMP.
 
 profile:
   align: right
